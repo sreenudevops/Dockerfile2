@@ -1,0 +1,5 @@
+FROM almalinux
+ENV AUTHOR="SREENU"\
+    DURATION="25HOURS"\
+    COURSE="DOCKER"
+    
