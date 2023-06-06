@@ -1,3 +1,3 @@
-#### WORKDIR
+### WORKDIR
 
-WORKDIR is used to set the path to the image while creating
+WORKDIR is used to set path of the image while creating.
